@@ -1,0 +1,8 @@
+{
+  "name": "buyback",
+  "app_id": "2e7c1541",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
